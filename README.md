@@ -17,5 +17,11 @@ Welcome to the manual testing documentation for *GP Flexi Plan*. GP Flexi Plan i
 
 6. **Test Metrics** - These measurements include things like test execution times, bug resolution rates, and key performance indicators. The information aids in determining the application's overall quality and gives a broad picture of the efficacy of the testing effort.
 
+##Mind Map
+![Mindmap - Flexi Plan](https://github.com/Ajij-khaan/Manual_Testing_GP_Flexi_Plan/assets/57570940/e79223b4-36ce-456a-b20e-f3e51359a080)
+
+## Test Case Report
+![Test Result](https://github.com/Ajij-khaan/Manual_Testing_GP_Flexi_Plan/assets/57570940/5d8b00b9-dc22-4e06-af85-57b5ea767b7f)
+
 #
 *Disclaimer: The primary purpose of this repository and its contents is to record the manual testing procedure for GP Flexi Plan. The data presented here is accurate as of the testing's completion date. Refer to the official website and documentation for the most recent details about GP Flexi Plan.*
